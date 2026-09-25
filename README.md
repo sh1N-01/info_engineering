@@ -1,2 +1,2 @@
-# 1st-Semester
-1st Sem of Info Engineering
+# info_engineering
+Files for info engineering class
